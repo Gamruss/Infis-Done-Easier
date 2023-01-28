@@ -60,7 +60,7 @@ body {
     color: #282828;
   }
   
-  .file-spacer {
+  .file-second {
     color: #f2f2f2;
     text-decoration: none;
 	font-weight: bold;
@@ -74,7 +74,7 @@ body {
 	text-decoration: underline;
   }
   
-  .file-header {
+  .file-main {
     color: #f2f2f2;
     text-decoration: none;
 	font-weight: bold;
