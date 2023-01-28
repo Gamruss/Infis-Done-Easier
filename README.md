@@ -1,6 +1,6 @@
 # Infis Maturita & Infis Stuff
-https://gamruss.github.io/Infis-Done-Easier/
+https://gamruss.github.io/Infis-Maturita-and-Infis-Stuffr/
 
 # Infis Maturita
 
-https://gamruss.github.io/Infis-Done-Easier/InfisMaturita/infisMaturita.html
+https://gamruss.github.io/Infis-Maturita-and-Infis-Stuff/InfisMaturita/infisMaturita.html
