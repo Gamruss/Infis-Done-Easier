@@ -1,5 +1,5 @@
 # Infis Maturita & Infis Stuff
-https://gamruss.github.io/Infis-Maturita-and-Infis-Stuffr/
+https://gamruss.github.io/Infis-Maturita-and-Infis-Stuff/
 
 # Infis Maturita
 
