@@ -60,7 +60,7 @@ body {
     color: #282828;
   }
   
-  .file-second {
+  .file-docx {
     color: #f2f2f2;
     text-decoration: none;
 	font-weight: bold;
@@ -74,7 +74,7 @@ body {
 	text-decoration: underline;
   }
   
-  .file-main {
+  .file-pdf {
     color: #f2f2f2;
     text-decoration: none;
 	font-weight: bold;
