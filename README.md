@@ -1,4 +1,4 @@
-# Infis Maturita & Infis Stuff
+# Infis Maturita & Infis Bullshit
 https://gamruss.github.io/Infis-Maturita-and-Infis-Bullshit/
 
 # Infis Maturita
