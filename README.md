@@ -16,3 +16,5 @@ Máte nějaké soubory nebo informace, které by mohly pomoci žákům na infisu
 
 
 Společně tak ulehčíme život žákům na infisu.
+
+### Discord: Gamrus#9765
