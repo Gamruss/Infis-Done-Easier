@@ -1,5 +1,11 @@
 # Info
-Použili jste tento Github? Máte nějaké soubory nebo informace, které by mohly pomoci žákům na infisu? Neváhejte a kontaktujte nás, my tyto soubory přidáme. Společně tak ulehčíme život žákům na infisu.
+Použili jste tento Github? 
+
+
+Máte nějaké soubory nebo informace, které by mohly pomoci žákům na infisu? Neváhejte a kontaktujte nás, my tyto soubory přidáme. 
+
+
+Společně tak ulehčíme život žákům na infisu.
 # Infis Maturita & Infis Bullshit
 https://gamruss.github.io/Infis-Maturita-and-Infis-Bullshit/
 
