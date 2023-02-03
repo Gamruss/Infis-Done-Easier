@@ -1,13 +1,3 @@
-
-# Infis Maturita & Infis Bullshit
-https://gamruss.github.io/Infis-Maturita-and-Infis-Bullshit/
-
-
-
-# Infis Maturita
-
-https://gamruss.github.io/Infis-Maturita-and-Infis-Bullshit/InfisMaturita/infisMaturita.html
-
 # Info
 Použili jste tento Github? 
 
@@ -18,3 +8,13 @@ Máte nějaké soubory nebo informace, které by mohly pomoci žákům na infisu
 Společně tak ulehčíme život žákům na infisu.
 
 ### Discord: Gamrus#9765
+
+# Infis Maturita & Infis Bullshit
+https://gamruss.github.io/Infis-Maturita-and-Infis-Bullshit/
+
+
+
+# Infis Maturita
+
+https://gamruss.github.io/Infis-Maturita-and-Infis-Bullshit/InfisMaturita/infisMaturita.html
+
