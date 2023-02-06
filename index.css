@@ -1,0 +1,351 @@
+body {
+    background-color: #121212;
+    color: #f2f2f2;
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 2.5em;
+    margin-top: 50px;
+    color: #f2f2f2;
+  }
+  
+  .category {
+    display: inline-block;
+    background-color: #282828;
+    color: #f2f2f2;
+    padding: 10px;
+    margin: 10px;
+    cursor: pointer;
+    transition: background-color 0.2s ease-in-out;
+	border-radius: 10px;
+	text-decoration: none;
+  }
+  
+  .category:hover {
+    background-color: #580000;
+
+  }
+  .category:active {
+    background-color: white; 
+  }
+  
+  .file-link {
+    color: #f2f2f2;
+    text-decoration: none;
+	font-weight: bold;
+    margin: 10px;
+    font-size: 1.2em;
+    transition: color 0.2s ease-in-out;
+  }
+  
+ 
+  .file-link:hover {
+    color: #282828;
+  }
+  
+  
+  
+  
+  
+  
+  
+  /* ######################### */
+  /* Infis Maturita Literatura */
+  /* ######################### */
+  .file-literatura-link {
+    color: #f2f2f2;
+    text-decoration: none;
+	font-weight: bold;
+    margin: 10px;
+    font-size: 1.2em;
+    transition: color 0.2s ease-in-out;
+	display: flex;
+    flex-direction: column;
+	margin-bottom: 10px;
+  }
+  
+  .file-literatura-link:hover {
+    color: #282828;
+  }
+  
+  .file-literatura-text-main {
+    color: #f2f2f2;
+    text-decoration: none;
+	font-weight: bold;
+    margin: 10px;
+    font-size: 1.7em;
+    transition: color 0.2s ease-in-out;
+	display: flex;
+    flex-direction: column;
+	margin-bottom: 10px;
+	text-decoration: underline;
+  }
+  
+  .file-literatura-text-main-second {
+    color: #f2f2f2;
+    text-decoration: none;
+	font-weight: bold;
+    margin: 10px;
+    font-size: 1.7em;
+    transition: color 0.2s ease-in-out;
+	display: flex;
+    flex-direction: column;
+	margin-top: 50px;
+	margin-bottom: 5px;
+	text-decoration: underline;
+	
+  }
+  
+  .file-literatura-text-main-filetype {
+    color: #f2f2f2;
+    text-decoration: none;
+	font-weight: bold;
+    margin: 10px;
+    font-size: 1.5em;
+    transition: color 0.2s ease-in-out;
+	display: flex;
+    flex-direction: column;
+	margin-bottom: 10px;
+	cursor: pointer;
+	
+  }
+  
+  .file-literatura-text-main-filetype:hover {
+    color: #282828;
+  } 
+  
+  .file-literatura-text-second-filetype {
+    color: #f2f2f2;
+    text-decoration: none;
+	font-weight: bold;
+    margin: 10px;
+    font-size: 1.5em;
+    transition: color 0.2s ease-in-out;
+	display: flex;
+    flex-direction: column;
+	margin-bottom: 10px;
+	margin-top: 20px;
+	cursor: pointer;
+
+  }
+  
+  .file-literatura-text-second-filetype:hover {
+    color: #282828;
+  }
+  
+  /* ######################### */
+  /* Infis Maturita IT */
+  /* ######################### */
+  .file-it-link {
+    color: #f2f2f2;
+    text-decoration: none;
+	font-weight: bold;
+    margin: 10px;
+    font-size: 1.2em;
+    transition: color 0.2s ease-in-out;
+	display: flex;
+    flex-direction: column;
+	margin-bottom: 10px;
+  }
+  
+  .file-it-link:hover {
+    color: #282828;
+  }
+  
+  .file-it-text-main {
+    color: #f2f2f2;
+    text-decoration: none;
+	font-weight: bold;
+    margin: 10px;
+    font-size: 1.7em;
+    transition: color 0.2s ease-in-out;
+	display: flex;
+    flex-direction: column;
+	margin-bottom: 10px;
+	text-decoration: underline;
+  }
+  
+  .file-it-text-main-second {
+    color: #f2f2f2;
+    text-decoration: none;
+	font-weight: bold;
+    margin: 10px;
+    font-size: 1.7em;
+    transition: color 0.2s ease-in-out;
+	display: flex;
+    flex-direction: column;
+	margin-top: 50px;
+	margin-bottom: 5px;
+	text-decoration: underline;
+	
+  }
+  
+  .file-it-text-main-filetype {
+    color: #f2f2f2;
+    text-decoration: none;
+	font-weight: bold;
+    margin: 10px;
+    font-size: 1.5em;
+    transition: color 0.2s ease-in-out;
+	display: flex;
+    flex-direction: column;
+	margin-bottom: 10px;
+	cursor: pointer;
+	
+  }
+  
+  .file-it-text-main-filetype:hover {
+    color: #282828;
+  } 
+  
+  .file-it-text-second-filetype {
+    color: #f2f2f2;
+    text-decoration: none;
+	font-weight: bold;
+    margin: 10px;
+    font-size: 1.5em;
+    transition: color 0.2s ease-in-out;
+	display: flex;
+    flex-direction: column;
+	margin-bottom: 10px;
+	margin-top: 20px;
+	cursor: pointer;
+
+  }
+  
+  .file-it-text-second-filetype:hover {
+    color: #282828;
+  }
+  
+
+  
+  
+  
+  
+  
+  /* ################## */
+  /* Infis Programovani */
+  /* ################## */
+  .file-programovani-link {
+    color: #f2f2f2;
+    text-decoration: none;
+	font-weight: bold;
+    margin: 10px;
+    font-size: 1.2em;
+    transition: color 0.2s ease-in-out;
+	display: flex;
+    flex-direction: column;
+	margin-bottom: 10px;
+  }
+  
+  .file-programovani-link:hover {
+    color: #282828;
+  }
+  
+  .file-programovani-text-main {
+    color: #f2f2f2;
+    text-decoration: none;
+	font-weight: bold;
+    margin: 10px;
+    font-size: 1.4em;
+    transition: color 0.2s ease-in-out;
+	display: flex;
+    flex-direction: column;
+	margin-bottom: 5px;
+	text-decoration: underline;
+  }
+  
+  .file-programovani-text-main-second {
+    color: #f2f2f2;
+    text-decoration: none;
+	font-weight: bold;
+    margin: 10px;
+    font-size: 1.4em;
+    transition: color 0.2s ease-in-out;
+	display: flex;
+    flex-direction: column;
+	margin-bottom: 20px;
+	text-decoration: underline;
+  }
+  
+  .programovani-header-chatGpt {
+    color: #f2f2f2;
+    text-decoration: underline;
+	font-weight: bold;
+    font-size: 1.5em;
+    transition: color 0.2s ease-in-out;
+	display: flex;
+    flex-direction: column;
+  }
+  
+  .programovani-header-text {
+    font-size: 1.3em;
+    margin-top: 10px;
+    color: #f2f2f2;
+  }
+  
+  /* ################## */
+  /* ### Infis Sítě ###*/
+  /* ################## */
+  
+  .file-site-link {
+    color: #f2f2f2;
+    text-decoration: none;
+	font-weight: bold;
+    margin: 10px;
+    font-size: 1.2em;
+    transition: color 0.2s ease-in-out;
+	display: flex;
+    flex-direction: column;
+	margin-bottom: 10px;
+  }
+  
+  .file-site-link:hover {
+    color: #282828;
+  }
+  
+  
+  .file-second {
+    color: #f2f2f2;
+    text-decoration: none;
+	font-weight: bold;
+    margin: 10px;
+    font-size: 1.5em;
+    transition: color 0.2s ease-in-out;
+	display: flex;
+    flex-direction: column;
+	margin-bottom: 10px;
+	margin-top: 50px;
+
+  }
+  
+  .file-mainSecond {
+    color: #f2f2f2;
+    text-decoration: none;
+	font-weight: bold;
+    margin: 10px;
+    font-size: 1.7em;
+    transition: color 0.2s ease-in-out;
+	display: flex;
+    flex-direction: column;
+	margin-top: 50px;
+	margin-bottom: 5px;
+	text-decoration: underline;
+  }
+  
+  .file-afterMainSecond {
+    color: #f2f2f2;
+    text-decoration: none;
+	font-weight: bold;
+    margin: 10px;
+    font-size: 1.5em;
+    transition: color 0.2s ease-in-out;
+	display: flex;
+    flex-direction: column;
+	margin-bottom: 10px;
+
+  }
+
+  
