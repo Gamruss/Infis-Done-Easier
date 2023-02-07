@@ -12,12 +12,12 @@ Pokud máte nějakou žádost o smazaní něčeho neváhejte kontaktovat
 
 ### Discord: Gamrus#9765
 
-# Infis Maturita & Infis Bullshit
-https://gamruss.github.io/Infis-Maturita-and-Infis-Bullshit/
+# Infis Maturita & Infis Help
+https://gamruss.github.io/Infis-Maturita-Infis-Help/
 
 
 
 # Infis Maturita
 
-https://gamruss.github.io/Infis-Maturita-and-Infis-Bullshit/InfisMaturita/infisMaturita.html
+https://gamruss.github.io/Infis-Maturita-Infis-Help/InfisMaturita/infisMaturita.html
 
