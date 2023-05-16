@@ -62,6 +62,28 @@ document.querySelector(".file-it-text-second-filetype").addEventListener("click"
   }
 });
 
+document.querySelector(".maturitaSiteFileType1").style.display = "none";
+
+document.querySelector(".file-site-text-main-filetype").addEventListener("click", function() {
+  var fileType = document.querySelector(".maturitaSiteFileType1");
+  if (fileType.style.display === "none") {
+    fileType.style.display = "block";
+  } else {
+    fileType.style.display = "none";
+  }
+});
+
+document.querySelector(".maturitaSiteFileType2").style.display = "none";
+
+document.querySelector(".file-site-text-second-filetype").addEventListener("click", function() {
+  var fileType = document.querySelector(".maturitaSiteFileType2");
+  if (fileType.style.display === "none") {
+    fileType.style.display = "block";
+  } else {
+    fileType.style.display = "none";
+  }
+});
+
 
 
 function showCategory(category) {
