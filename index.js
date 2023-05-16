@@ -106,6 +106,28 @@ document.querySelector(".file-Mprogramovani-text-second-filetype").addEventListe
   }
 });
 
+document.querySelector(".maturitaMajFileType1").style.display = "none";
+
+document.querySelector(".file-Maj-text-main-filetype").addEventListener("click", function() {
+  var fileType = document.querySelector(".maturitaMajFileType1");
+  if (fileType.style.display === "none") {
+    fileType.style.display = "block";
+  } else {
+    fileType.style.display = "none";
+  }
+});
+
+document.querySelector(".maturitaMajFileType2").style.display = "none";
+
+document.querySelector(".file-Maj-text-second-filetype").addEventListener("click", function() {
+  var fileType = document.querySelector(".maturitaMajFileType2");
+  if (fileType.style.display === "none") {
+    fileType.style.display = "block";
+  } else {
+    fileType.style.display = "none";
+  }
+});
+
 
 
 function showCategory(category) {

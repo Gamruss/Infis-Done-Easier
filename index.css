@@ -387,6 +387,91 @@ body {
     color: #282828;
   }
   
+  
+    /* ######################### */
+  /* Infis Maturita Ajina */
+  /* ######################### */
+  .file-Maj-link {
+    color: #f2f2f2;
+    text-decoration: none;
+	font-weight: bold;
+    margin: 10px;
+    font-size: 1.2em;
+    transition: color 0.2s ease-in-out;
+	display: flex;
+    flex-direction: column;
+	margin-bottom: 10px;
+  }
+  
+  .file-Maj-link:hover {
+    color: #282828;
+  }
+  
+  .file-Maj-text-main {
+    color: #f2f2f2;
+    text-decoration: none;
+	font-weight: bold;
+    margin: 10px;
+    font-size: 1.7em;
+    transition: color 0.2s ease-in-out;
+	display: flex;
+    flex-direction: column;
+	margin-bottom: 10px;
+	text-decoration: underline;
+  }
+  
+  .file-Maj-text-main-second {
+    color: #f2f2f2;
+    text-decoration: none;
+	font-weight: bold;
+    margin: 10px;
+    font-size: 1.7em;
+    transition: color 0.2s ease-in-out;
+	display: flex;
+    flex-direction: column;
+	margin-top: 50px;
+	margin-bottom: 5px;
+	text-decoration: underline;
+	
+  }
+  
+  .file-Maj-text-main-filetype {
+    color: #f2f2f2;
+    text-decoration: none;
+	font-weight: bold;
+    margin: 10px;
+    font-size: 1.5em;
+    transition: color 0.2s ease-in-out;
+	display: flex;
+    flex-direction: column;
+	margin-bottom: 10px;
+	cursor: pointer;
+	
+  }
+  
+  .file-Maj-text-main-filetype:hover {
+    color: #282828;
+  } 
+  
+  .file-Maj-text-second-filetype {
+    color: #f2f2f2;
+    text-decoration: none;
+	font-weight: bold;
+    margin: 10px;
+    font-size: 1.5em;
+    transition: color 0.2s ease-in-out;
+	display: flex;
+    flex-direction: column;
+	margin-bottom: 10px;
+	margin-top: 20px;
+	cursor: pointer;
+
+  }
+  
+  .file-Maj-text-second-filetype:hover {
+    color: #282828;
+  }
+  
 
   
   
