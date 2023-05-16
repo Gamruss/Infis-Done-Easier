@@ -303,6 +303,90 @@ body {
     color: #282828;
   }
   
+  /* ######################### */
+  /* Infis Maturita Programovani */
+  /* ######################### */
+  .file-Mprogramovani-link {
+    color: #f2f2f2;
+    text-decoration: none;
+	font-weight: bold;
+    margin: 10px;
+    font-size: 1.2em;
+    transition: color 0.2s ease-in-out;
+	display: flex;
+    flex-direction: column;
+	margin-bottom: 10px;
+  }
+  
+  .file-Mprogramovani-link:hover {
+    color: #282828;
+  }
+  
+  .file-Mprogramovani-text-main {
+    color: #f2f2f2;
+    text-decoration: none;
+	font-weight: bold;
+    margin: 10px;
+    font-size: 1.7em;
+    transition: color 0.2s ease-in-out;
+	display: flex;
+    flex-direction: column;
+	margin-bottom: 10px;
+	text-decoration: underline;
+  }
+  
+  .file-Mprogramovani-text-main-second {
+    color: #f2f2f2;
+    text-decoration: none;
+	font-weight: bold;
+    margin: 10px;
+    font-size: 1.7em;
+    transition: color 0.2s ease-in-out;
+	display: flex;
+    flex-direction: column;
+	margin-top: 50px;
+	margin-bottom: 5px;
+	text-decoration: underline;
+	
+  }
+  
+  .file-Mprogramovani-text-main-filetype {
+    color: #f2f2f2;
+    text-decoration: none;
+	font-weight: bold;
+    margin: 10px;
+    font-size: 1.5em;
+    transition: color 0.2s ease-in-out;
+	display: flex;
+    flex-direction: column;
+	margin-bottom: 10px;
+	cursor: pointer;
+	
+  }
+  
+  .file-Mprogramovani-text-main-filetype:hover {
+    color: #282828;
+  } 
+  
+  .file-Mprogramovani-text-second-filetype {
+    color: #f2f2f2;
+    text-decoration: none;
+	font-weight: bold;
+    margin: 10px;
+    font-size: 1.5em;
+    transition: color 0.2s ease-in-out;
+	display: flex;
+    flex-direction: column;
+	margin-bottom: 10px;
+	margin-top: 20px;
+	cursor: pointer;
+
+  }
+  
+  .file-Mprogramovani-text-second-filetype:hover {
+    color: #282828;
+  }
+  
 
   
   

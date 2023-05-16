@@ -84,6 +84,28 @@ document.querySelector(".file-site-text-second-filetype").addEventListener("clic
   }
 });
 
+document.querySelector(".maturitaMProgramovaniFileType1").style.display = "none";
+
+document.querySelector(".file-Mprogramovani-text-main-filetype").addEventListener("click", function() {
+  var fileType = document.querySelector(".maturitaMProgramovaniFileType1");
+  if (fileType.style.display === "none") {
+    fileType.style.display = "block";
+  } else {
+    fileType.style.display = "none";
+  }
+});
+
+document.querySelector(".maturitaMProgramovaniFileType2").style.display = "none";
+
+document.querySelector(".file-Mprogramovani-text-second-filetype").addEventListener("click", function() {
+  var fileType = document.querySelector(".maturitaMProgramovaniFileType2");
+  if (fileType.style.display === "none") {
+    fileType.style.display = "block";
+  } else {
+    fileType.style.display = "none";
+  }
+});
+
 
 
 function showCategory(category) {
