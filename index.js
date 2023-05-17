@@ -128,6 +128,28 @@ document.querySelector(".file-Maj-text-second-filetype").addEventListener("click
   }
 });
 
+document.querySelector(".maturitaMitFileType1").style.display = "none";
+
+document.querySelector(".file-mit-text-main-filetype").addEventListener("click", function() {
+  var fileType = document.querySelector(".maturitaMitFileType1");
+  if (fileType.style.display === "none") {
+    fileType.style.display = "block";
+  } else {
+    fileType.style.display = "none";
+  }
+});
+
+document.querySelector(".maturitaMitFileType2").style.display = "none";
+
+document.querySelector(".file-mit-text-second-filetype").addEventListener("click", function() {
+  var fileType = document.querySelector(".maturitaMitFileType2");
+  if (fileType.style.display === "none") {
+    fileType.style.display = "block";
+  } else {
+    fileType.style.display = "none";
+  }
+});
+
 
 
 function showCategory(category) {

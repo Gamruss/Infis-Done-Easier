@@ -473,6 +473,90 @@ body {
   }
   
 
+
+ /* ######################### */
+  /* Infis Maturita MIT */
+  /* ######################### */
+  .file-mit-link {
+    color: #f2f2f2;
+    text-decoration: none;
+	font-weight: bold;
+    margin: 10px;
+    font-size: 1.2em;
+    transition: color 0.2s ease-in-out;
+	display: flex;
+    flex-direction: column;
+	margin-bottom: 10px;
+  }
+  
+  .file-mit-link:hover {
+    color: #282828;
+  }
+  
+  .file-mit-text-main {
+    color: #f2f2f2;
+    text-decoration: none;
+	font-weight: bold;
+    margin: 10px;
+    font-size: 1.7em;
+    transition: color 0.2s ease-in-out;
+	display: flex;
+    flex-direction: column;
+	margin-bottom: 10px;
+	text-decoration: underline;
+  }
+  
+  .file-mit-text-main-second {
+    color: #f2f2f2;
+    text-decoration: none;
+	font-weight: bold;
+    margin: 10px;
+    font-size: 1.7em;
+    transition: color 0.2s ease-in-out;
+	display: flex;
+    flex-direction: column;
+	margin-top: 50px;
+	margin-bottom: 5px;
+	text-decoration: underline;
+	
+  }
+  
+  .file-mit-text-main-filetype {
+    color: #f2f2f2;
+    text-decoration: none;
+	font-weight: bold;
+    margin: 10px;
+    font-size: 1.5em;
+    transition: color 0.2s ease-in-out;
+	display: flex;
+    flex-direction: column;
+	margin-bottom: 10px;
+	cursor: pointer;
+	
+  }
+  
+  .file-mit-text-main-filetype:hover {
+    color: #282828;
+  } 
+  
+  .file-mit-text-second-filetype {
+    color: #f2f2f2;
+    text-decoration: none;
+	font-weight: bold;
+    margin: 10px;
+    font-size: 1.5em;
+    transition: color 0.2s ease-in-out;
+	display: flex;
+    flex-direction: column;
+	margin-bottom: 10px;
+	margin-top: 20px;
+	cursor: pointer;
+
+  }
+  
+  .file-mit-text-second-filetype:hover {
+    color: #282828;
+  }
   
   
   
